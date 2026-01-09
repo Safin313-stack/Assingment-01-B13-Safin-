@@ -30,7 +30,7 @@ header {
 }
 
 .logo-icon {
-    font-size: 28px;
+    display: block;
 }
 
 nav {
